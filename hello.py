@@ -4,7 +4,8 @@ Created on Fri Jul  5 00:58:22 2024
 
 @author: kim
 """
-
+# 이것은 수정사항입니다.
+# 안녕하세요.
 
 import numpy as np
 import pandas as pd
